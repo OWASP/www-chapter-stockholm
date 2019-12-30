@@ -122,9 +122,9 @@ Get your ticket now at
 [Eventbrite](http://marioheiderich.eventbrite.com/).
 
 Mario's slides:
-[Media:Mario_Heiderich_OWASP_Sweden_The_image_that_called_me.pdf‎](/www-pdf-archive/Mario_Heiderich_OWASP_Sweden_The_image_that_called_me.pdf‎ )
+[Media:Mario_Heiderich_OWASP_Sweden_The_image_that_called_me.pdf](/www-pdf-archive/Mario_Heiderich_OWASP_Sweden_The_image_that_called_me.pdf )
 "The Image That Called Me" on SVG security
-[/www-pdf-archive/Mario_Heiderich_OWASP_Sweden_Locking_the_throneroom.pdf‎](/www-pdf-archive/Mario_Heiderich_OWASP_Sweden_Locking_the_throneroom.pdf‎ )
+[/www-pdf-archive/Mario_Heiderich_OWASP_Sweden_Locking_the_throneroom.pdf](/www-pdf-archive/Mario_Heiderich_OWASP_Sweden_Locking_the_throneroom.pdf )
 "Locking the Throneroom" on locking the DOM to eradicate XSS
 
 **`OWASP``   ``Sweden``   ``Meeting,``   ``Jan``   ``31``   ``2011,``
