@@ -122,9 +122,9 @@ Get your ticket now at
 [Eventbrite](http://marioheiderich.eventbrite.com/).
 
 Mario's slides:
-[Media:Mario_Heiderich_OWASP_Sweden_The_image_that_called_me.pdf‎](Media:Mario_Heiderich_OWASP_Sweden_The_image_that_called_me.pdf‎ "wikilink")
+[Media:Mario_Heiderich_OWASP_Sweden_The_image_that_called_me.pdf‎](/www-pdf-archive/Mario_Heiderich_OWASP_Sweden_The_image_that_called_me.pdf‎ )
 "The Image That Called Me" on SVG security
-[Media:Mario_Heiderich_OWASP_Sweden_Locking_the_throneroom.pdf‎](Media:Mario_Heiderich_OWASP_Sweden_Locking_the_throneroom.pdf‎ "wikilink")
+[/www-pdf-archive/Mario_Heiderich_OWASP_Sweden_Locking_the_throneroom.pdf‎](/www-pdf-archive/Mario_Heiderich_OWASP_Sweden_Locking_the_throneroom.pdf‎ )
 "Locking the Throneroom" on locking the DOM to eradicate XSS
 
 **`OWASP``   ``Sweden``   ``Meeting,``   ``Jan``   ``31``   ``2011,``
@@ -159,7 +159,7 @@ in Ljusgården, Årstaängsvägen 19, Marievik/Liljeholmen, Stockholm
 Nexus Safe and Data@UrService are sponsors and there will be lighter
 food and beers.
 
-[Media:OWASP_Sweden_Samy_Kamkar_oktober_2010.pdf](Media:OWASP_Sweden_Samy_Kamkar_oktober_2010.pdf "wikilink")
+[/www-pdf-archive/OWASP_Sweden_Samy_Kamkar_oktober_2010.pdf](/www-pdf-archive/OWASP_Sweden_Samy_Kamkar_oktober_2010.pdf )
 
 Go to [EventBrite](http://samykamkar.eventbrite.com/) and register for
 free now\!
@@ -355,5 +355,5 @@ seminars will be made.
 Are you interested in helping out? Do you have ideas for great invited
 speakers or workshop meetings? Feel free to contact the chapter.
 
-[Category:Sweden](Category:Sweden "wikilink")
-[Category:Europe](Category:Europe "wikilink")
+[Category:Sweden](Category:Sweden )
+[Category:Europe](Category:Europe )
