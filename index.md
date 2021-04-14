@@ -7,7 +7,6 @@ level: 0
 
 region: Europe
 
-auto-migrated: 1
 
 ---
 ## Welcome to the OWASP Stockholm chapter
