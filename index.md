@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Stockholm
-tags: example-tag
+tags: past-events
 level: 0
 
 region: Europe
