@@ -24,4 +24,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings.
 
 
-Follow chapter news on [Twitter](https://twitter.com/owaspstock) | [Meetup.com](https://www.meetup.com/OWASP-Stockholm) 
+Follow chapter news on [Twitter](https://twitter.com/owaspstockholm) | [Meetup.com](https://www.meetup.com/OWASP-Stockholm) 
