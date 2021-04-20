@@ -25,3 +25,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 
 Follow chapter news on [Twitter](https://twitter.com/owaspstockholm) | [Meetup.com](https://www.meetup.com/OWASP-Stockholm) 
+
+## Next Event
+
+Topic: Introducing OWASP Stockholm Chapter
+When: 28th of April, 18:30 to 19:00
+
+Subscribe to the event on our Meetup page (Event to be announced soon)
