@@ -28,7 +28,7 @@ Follow chapter news on [Twitter](https://twitter.com/owaspstockholm) | [Meetup.c
 
 ## Next Event
 
-Topic: Introducing OWASP Stockholm Chapter
-When: 28th of April, 18:30 to 19:00
+ - Topic: Introducing OWASP Stockholm Chapter
+ - When: 28th of April, 18:30 to 19:00
 
 Subscribe to the event on our Meetup page (Event to be announced soon)
