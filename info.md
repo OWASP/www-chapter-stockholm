@@ -2,5 +2,5 @@
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/owasp-stockholm/)
+* [Twitter](https://twitter.com/owaspstockholm)
