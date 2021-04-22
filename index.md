@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Stockholm
 tags: past_events
 level: 0
-
+meetup-group: owasp-stockholm
 region: Europe
 
 
@@ -26,9 +26,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 Follow chapter news on [Twitter](https://twitter.com/owaspstockholm) | [Meetup.com](https://www.meetup.com/OWASP-Stockholm) 
 
-## Next Event
+## Events
 
- - Topic: Introducing OWASP Stockholm Chapter
- - When: 28th of April, 18:30 to 19:00
+{% include chapter_events.html group=page.meetup-group %}
 
-Subscribe to the event on our Meetup page (Event to be announced soon)
+
