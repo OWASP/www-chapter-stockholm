@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Stockholm
 tags: past_events
 level: 0
+meetup-group: owasp-stockholm
 
 region: Europe
 
