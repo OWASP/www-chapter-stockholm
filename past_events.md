@@ -8,21 +8,26 @@ tags: past-events
 
 ## Past Events
 
-Cyber range practice and competition, May 28th, 2019
+Cyber range practice and competition with Jeremy Wasser, May 28th, 2019
 
-**`OWASP``   ``Stockholm``   ``meeting,``   ``May``   ``28``   ``2019:``   ``Cyber``   ``Range``   ``Competition`**
+**`OWASP``   ``Stockholm``   ``meeting,``   ``May``   ``28``
+ ``2019:``   ``Cyber``   ``Range``   ``Competition`**
 
-Secure development: BSIMM, SAMM and Sugar!, December 12th, 2018
+Secure development: BSIMM, SAMM and Sugar! with Nick Murison, Sebastian Åkerman and Hugo Hirsh, December 12th, 2018
 
-**`OWASP``   ``Stockholm``   ``meeting,``   ``December``   ``12``   ``2018:``   ``BSIMM``   ``SAMM``   ``SDLC`**
+**`OWASP``   ``Stockholm``   ``meeting,``   ``December``   ``12``
+ ``2018:``   ``BSIMM``   ``SAMM``   ``SDLC`**
+
 
 The last XSS Defense talk with Jim Manico, November 13th, 2018
 
-**`OWASP``   ``Stockholm``   ``meeting,``   ``November``   ``13``   ``2018:``   ``XSS``   ``Defense``   ``Jim``    ``Manico`**
+**`OWASP``   ``Stockholm``   ``meeting,``   ``November``   ``13``
+ ``2018:``   ``XSS``   ``Defense``   ``Jim``   ``Manico`**
 
 Eliminating False Assumptions in Bug Bounties with Mattias Karlsson and Frans Rosén, October 2nd, 2018
 
-**`OWASP``   ``Stockholm``   ``meeting,``   ``October``   ``2``   ``2018:``   ``Bug``   ``Bounty``   ``Frans``    ``Rosén``   ``Mattias``   ``Karlsson`**
+**`OWASP``   ``Stockholm``   ``meeting,``   ``October``   ``2``
+ ``2018:``   ``Bug``   ``Bounty``   ``Frans``   ``Rosén``   ``Mattias``   ``Karlsson`**
 
 New risks in OWASP Top 10, with Sebastian Åkerman, Henrik Åmark and Tomas Karlsson, May 28th 2018
 
