@@ -6,6 +6,14 @@ order: 1
 tags: past-events
 ---
 
+## Upcoming Events
+
+Stockholm chapter reboot, Apr 28th, 2019
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``28``
+ ``2021:``   ``OWASP``   ``Reboot`**
+
+
 ## Past Events
 
 Cyber range practice and competition with Jeremy Wasser, May 28th, 2019
