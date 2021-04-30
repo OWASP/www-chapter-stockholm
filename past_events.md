@@ -6,10 +6,6 @@ order: 1
 tags: past_events
 ---
 
-## Upcoming Events
-
-
-
 ## Past Events
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``28``
