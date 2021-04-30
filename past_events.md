@@ -21,27 +21,112 @@ Welcome to an OWASP Stockholm reboot to reactivate the chapter. We will discuss 
 
 Cyber range practice and competition with Jeremy Wasser, May 28th, 2019
 
+Owasp Stockholm, together with our sponsors Security Innovation Europe and Nasdaq, invites you to an real time CTF evening. Train your skills in application security by attacking real applications and compete with other participants for honor, glory and prices!
+
+Do note that without registering you will not be able to attend the event and please ensure your laptop has been fully charged as charging capabilities are limited.
+
+
+Security innovation Cyber Range
+
+The CMD+CTRL Cyber Range is part of Security innovation Europe's Attack and Defend approach to AppSec and is a real life business application platform that helps people learn to think like an attacker and exploit application vulnerabilities. The Cyber Range effectively assesses existing skills and fills any knowledge gaps by teaching real life skills as well as recommending additional training if needed. The Range experience is designed to speed up learning and greatly improve application security knowledge retention.
+
+To further coach participants who are struggling within certain areas there will be breakout sessions on specific topics, so this is both a competition as well as a great learning experience on how to improve your AppSec posture!
+
+Light food and drinks will be available at the event, but dont forget to bring a charged laptop!
+
+
+Please register for the event here.
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``December``   ``12``
  ``2018:``   ``BSIMM``   ``SAMM``   ``SDLC`**
 
 Secure development: BSIMM, SAMM and Sugar! with Nick Murison, Sebastian Åkerman and Hugo Hirsh, December 12th, 2018
 
+Since its cold and dark outside OWASP Stockholm invites you to a Secure development event on the 12th of December.
+Together with our sponsor Nordnet we will host talks on BSIMM, SAMM as well and how to get people engaged in security using sugar. The event will be in Nordnets office at Alströmmersatan 39.
+
+Agenda
+~17:30 - Event entrance opens
+18:00 Nick Murison - BSIMM
+18:45 Sebastian Åkerman - Running a Security Program like a Champion
+19:15 Hugo Hirsh - Trust and Sugar
+
+Register and get more information here:
+https://www.eventbrite.com/e/secure-development-bsimm-samm-and-sugar-tickets-53024648150
+
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``November``   ``13``
  ``2018:``   ``XSS``   ``Defense``   ``Jim``   ``Manico`**
 
 The last XSS Defense talk with Jim Manico, November 13th, 2018
+
+[Owasp-Sweden] OWASP Stockholm proudly presents, long time OWASP hero, Jim Manico in a talk about the hard to beat XSS risks.
+
+The event will take place at the Omegapoint office in Stockholm city on Nov 13th at 6 PM. Seats are limited so grab a ticket quickly by registering using the link below. You find details and talk description in the event info at Eventbrite.
+
+https://www.eventbrite.com/e/owasp-stockholm-jim-manico-the-last-xss-defense-talk-tickets-51186364795?aff=ebdssbdestsearch
+
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``October``   ``2``
  ``2018:``   ``Bug``   ``Bounty``   ``Frans``   ``Rosén``   ``Mattias``   ``Karlsson`**
 
 Eliminating False Assumptions in Bug Bounties with Mattias Karlsson and Frans Rosén, October 2nd, 2018
 
+OWASP Stockholm, Klarna, HackerOne, Mathias & Frans will during this event focus on bug bounty. HackerOne and Klarna will speak from an organisation perspective and Mathias and Frans will talk from a security researcher perspective. Klarna has started their journey and will speak about their experience. The good stuff that came out, but also lessons learned.
+
+[Mattias Karlsson & Frans Rosén presentation]
+
+Eliminating False Assumptions in Bug Bounties
+
+There are a lot of illusions and misconceptions around the bug bounty industry. Is it too late to join? Are all the vulnerabilities already found? Is everything automated nowadays so there's no way to be late to the party?
+
+Frans and Mathias have been in the mythical world of bounties for a few years and will share their thoughts and ideas on how to actually approach it technically, methodologically and mentally. And also, how to use bug bounties for your own advantage, to improve your career and to increase your pentesting and vulnerability hunting skills.
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``May``   ``28``
  ``2018:``   ``OWASP``   ``top``   ``10``   ``XXE``   ``Ìnsecure``   ``Deserialization``   ``Lack``   ``of``   ``Logging``   ``and``   ``Monitoring`**
 
 New risks in OWASP Top 10, with Sebastian Åkerman, Henrik Åmark and Tomas Karlsson, May 28th 2018
+
+OWASP Stockholm bjuder in till årets första evenemang. Den 28 Maj kommer vi, tillsammans med vår sponsor Omegapoint att gå igenom nyheterna på OWASP Top 10 som publicerades sent förra året.
+
+Evenemanget sker i Omegapoints lokaler på Regeringsgatan 56.
+
+Agenda
+
+17:30 Lättare mat och dryck serveras
+18:00 Vår sponsor Omegapoint har ordet
+~18:15 Henrik Åmark - A10 Lack of logging and Monitoring
+~18:45 Sebastian Åkerman - XEE
+~19:15 Tomas Karlsson - Insecure Deserialization
+~20:00 End of the event
+
+The event will be at the office of Omegapoint, Regeringsgatan 56.
+
+ 
+
+Henrik Åmark  
+
+Henrik Åmark är co-lead för OWASP Stockholm och konsult som arbetar med logging, säkerhetsövervakning och incident response.
+Med över 10 års erfarenhet har fokus till stor del varit att förese organisationer med ökad insyn i deras miljöer, förse dem med rätt verktyg att detektera hot och mitigera dessa.
+
+Tomas Karlsson
+Tomas har över 20 års erfarenhet av system- och verksamhetsutveckling och har jobbat i många olika projektroller. Med den erfarenheten har han en stor förståelse för varför projekt fortsätter att leverera osäker kod. Intresset för säkerhet vaknade för några år sedan när Tomas upptäckte att han själv hade skrivit kod som, på fel ställe, hade kunna vara ett allvarligt säkerhetshål.
+
+Sebastian Åkerman
+
+Sebastian Åkerman är utvecklare och mjukvaruarkitekt och har jobbat som konsult med säkerhetskririsk systemutveckling i drygt 20 år. Sebastian har ett särskilt intresse för säkerhet i utvecklingsprocessen och är även co-lead för OWASP Stockholm. 
+
+
+
+Beskrivning av OWASP top 10
+
+The OWASP Top 10 is a powerful awareness document for web application security. It represents a broad consensus about the most critical security risks to web applications. Project members include a variety of security experts from around the world who have shared their expertise to produce this list.
+
+We urge all companies to adopt this awareness document within their organization and start the process of ensuring that their web applications minimize these risks. Adopting the OWASP Top 10 is perhaps the most effective first step towards changing the software development culture within your organization into one that produces secure code.
+
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
+
+Presentationerna hålls på svenska.
 
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``September``   ``18``
