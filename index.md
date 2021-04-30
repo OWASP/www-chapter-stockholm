@@ -27,11 +27,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 Follow chapter news on [Twitter](https://twitter.com/owaspstockholm) or [Meetup.com](https://www.meetup.com/OWASP-Stockholm) 
 
-## Upcoming Events
-
-{% include chapter_events.html group=page.meetup-group %}
 
 ## Past Events
-
 [See past chapter events](https://owasp.org/www-chapter-stockholm/past_events.html)
 
+## Upcoming Events
+{% include chapter_events.html group=page.meetup-group %}
