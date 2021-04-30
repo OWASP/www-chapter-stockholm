@@ -12,41 +12,49 @@ tags: past_events
 
 ## Past Events
 
-Stockholm chapter reboot, Apr 28th, 2019
-
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``28``
  ``2021:``   ``OWASP``   ``Reboot`**
 
+Stockholm chapter reboot, Apr 28th, 2019
+
 Welcome to an OWASP Stockholm reboot to reactivate the chapter. We will discuss the past and the future for the chapter and set the ambition for different event formats and number of events. 
 
-Cyber range practice and competition with Jeremy Wasser, May 28th, 2019
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``May``   ``28``
  ``2019:``   ``Cyber``   ``Range``   ``Competition`**
 
-Secure development: BSIMM, SAMM and Sugar! with Nick Murison, Sebastian Åkerman and Hugo Hirsh, December 12th, 2018
+Cyber range practice and competition with Jeremy Wasser, May 28th, 2019
+
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``December``   ``12``
  ``2018:``   ``BSIMM``   ``SAMM``   ``SDLC`**
 
-
-The last XSS Defense talk with Jim Manico, November 13th, 2018
+Secure development: BSIMM, SAMM and Sugar! with Nick Murison, Sebastian Åkerman and Hugo Hirsh, December 12th, 2018
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``November``   ``13``
  ``2018:``   ``XSS``   ``Defense``   ``Jim``   ``Manico`**
 
-Eliminating False Assumptions in Bug Bounties with Mattias Karlsson and Frans Rosén, October 2nd, 2018
+The last XSS Defense talk with Jim Manico, November 13th, 2018
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``October``   ``2``
  ``2018:``   ``Bug``   ``Bounty``   ``Frans``   ``Rosén``   ``Mattias``   ``Karlsson`**
 
-New risks in OWASP Top 10, with Sebastian Åkerman, Henrik Åmark and Tomas Karlsson, May 28th 2018
+Eliminating False Assumptions in Bug Bounties with Mattias Karlsson and Frans Rosén, October 2nd, 2018
+
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``May``   ``28``
  ``2018:``   ``OWASP``   ``top``   ``10``   ``XXE``   ``Ìnsecure``   ``Deserialization``   ``Lack``   ``of``   ``Logging``   ``and``   ``Monitoring`**
 
+New risks in OWASP Top 10, with Sebastian Åkerman, Henrik Åmark and Tomas Karlsson, May 28th 2018
+
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``September``   ``18``
+ ``2017:``   ``JuiceShop``  ``Bjoern Kimminich``  ``projects`**
 
 OWASP juice shop workshop with Bjoern Kimminich, September 18th 2017
+
+Bjoern Kimminich will present his project Juice Shop and then we will all participate in a CTF competition using Juice Shop. 
+
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``February``   ``15``
  ``2017:``   ``Ethereum``   ``and``   ``OWASP``   ``top``   ``10``
@@ -55,6 +63,7 @@ OWASP juice shop workshop with Bjoern Kimminich, September 18th 2017
 First OWASP Stockholm event in 2017, with Marcus Örebrand, Magnus Hultin
 and Martin Swende Holst.
 [Eventbrite](https://www.eventbrite.com/e/owasp-stockholm-q1-2017-registrering-31517798584).
+
 
 **`OWASP``   ``Sweden``   ``Meeting,``   ``Stockholm,``   ``November``
  ``20,``   ``2012:``   ``OWASP``   ``Top``   ``10``   ``for``
