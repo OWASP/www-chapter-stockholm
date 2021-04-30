@@ -33,7 +33,5 @@ Follow chapter news on [Twitter](https://twitter.com/owaspstockholm) or [Meetup.
 
 ## Past Events
 
-{% include past_events.html group=page.meetup-group %}
-
-
+[See past chapter events](https://owasp.org/www-chapter-stockholm/past_events.html)
 
