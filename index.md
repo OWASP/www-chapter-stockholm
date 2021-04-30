@@ -24,7 +24,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 - Everyone is welcome to join us at our chapter meetings.
 
 
-Follow chapter news on [Twitter](https://twitter.com/owaspstockholm) or [Meetup.com](https://www.meetup.com/OWASP-Stockholm) 
+Follow chapter news on [Twitter](https://twitter.com/owaspstockholm) or [Meetup.com](https://www.meetup.com/OWASP-Stockholm)
+
+Are you interested in helping out? Do you have ideas for great invited
+speakers or workshop meetings? Feel free to contact the chapter.
 
 
 ## Past Events
