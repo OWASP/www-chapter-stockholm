@@ -3,10 +3,9 @@
 layout: col-sidebar
 title: OWASP Stockholm
 tags: past_events
-level: 4
+level: 1
 meetup-group: owasp-stockholm
 region: Europe
-altfooter: true
 
 ---
 ## Welcome to the OWASP Stockholm chapter
