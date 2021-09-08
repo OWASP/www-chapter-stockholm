@@ -11,7 +11,7 @@ tags: past_events
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``28``
  ``2021:``   ``OWASP``   ``Reboot`**
 
-Stockholm chapter reboot, Apr 28th, 2019
+Stockholm chapter reboot, Apr 28th, 2021
 
 Welcome to an OWASP Stockholm reboot to reactivate the chapter. We will discuss the past and the future for the chapter and set the ambition for different event formats and number of events. 
 
