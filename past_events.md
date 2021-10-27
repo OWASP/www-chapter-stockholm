@@ -7,6 +7,12 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Oct``   ``21``
+ ``2021:``   ``OWASP``   ``DevOps`**
+
+DevOps and security & Benefits of Cloud Thinking, Oct 21th, 2021
+
+Finally we can meet IRL again and we will fire off with a Secure Development event hosted by Omegapoint at their new office site.
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``28``
  ``2021:``   ``OWASP``   ``Reboot`**
