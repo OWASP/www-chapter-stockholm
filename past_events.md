@@ -14,6 +14,23 @@ DevOps and security & Benefits of Cloud Thinking, Oct 21th, 2021
 
 Finally we can meet IRL again and we will fire off with a Secure Development event hosted by Omegapoint at their new office site.
 
+Session 1. DevOps and security
+A presentation of a development lifecycle inspired by the DevOps loop with activities related to modern development and security with a discussion at the end.
+
+Bio
+Mats Persson, Consultant @ Omegapoint, passionate about Secure Development, Modern Ways of Working and Security in the Cloud
+
+[DevOps and Security](https://owasp.org/www-chapter-stockholm/presentations/DevOps-Security-OWASP-2021-10-21.pdf)
+
+Session 2. Benefits of Cloud Thinking
+Are Advanced Persistent Threats (APT) becoming the new normal? Should we get used to businesses getting pawned and having sensitive data leaked? Absolutely not! In this talk, we will present how designs often used in the cloud not only reduces risk of APTs, but also improve overall quality of your application – regardless if you’re running in the cloud or not.
+
+Bio
+Daniel Deogun & Dan Bergh Johnsson are authors of the book Secure by Design and have collectively been working with security and development for several decades. They are developers at heart and understand that security is often a side-concern. They’ve also evolved work habits that enable them to develop systems in a way that promotes security while focusing on high-quality design habits – something that’s easier for developers to keep in mind during their daily work. Both are established international speakers and often present at conferences on topics regarding high-quality development and security.
+
+[Benefits of Cloud Thinking](https://owasp.org/www-chapter-stockholm/presentations/Benefits.pdf)
+
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``28``
  ``2021:``   ``OWASP``   ``Reboot`**
 
