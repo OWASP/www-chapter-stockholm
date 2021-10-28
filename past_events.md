@@ -28,7 +28,7 @@ Are Advanced Persistent Threats (APT) becoming the new normal? Should we get use
 Bio
 Daniel Deogun & Dan Bergh Johnsson are authors of the book Secure by Design and have collectively been working with security and development for several decades. They are developers at heart and understand that security is often a side-concern. They’ve also evolved work habits that enable them to develop systems in a way that promotes security while focusing on high-quality design habits – something that’s easier for developers to keep in mind during their daily work. Both are established international speakers and often present at conferences on topics regarding high-quality development and security.
 
-[Benefits of Cloud Thinking](https://owasp.org/www-chapter-stockholm/presentations/Benefits.pdf)
+[Benefits of Cloud Thinking](https://owasp.org/www-chapter-stockholm/presentations/BenefitsOfCloudThinking.pdf)
 
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``28``
