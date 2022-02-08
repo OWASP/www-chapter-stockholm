@@ -37,4 +37,4 @@ speakers or workshop meetings? Feel free to contact the chapter.
 [See past chapter events](https://owasp.org/www-chapter-stockholm/past_events.html)
 
 ## Upcoming Events
-{% include chapter_events.html group=page.meetup-group %}
+Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
