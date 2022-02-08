@@ -32,9 +32,8 @@ Follow chapter news on [Twitter](https://twitter.com/owaspstockholm) or [Meetup.
 Are you interested in helping out? Do you have ideas for great invited
 speakers or workshop meetings? Feel free to contact the chapter.
 
+## Upcoming Events
+Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
 
 ## Past Events
 [See past chapter events](https://owasp.org/www-chapter-stockholm/past_events.html)
-
-## Upcoming Events
-Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
