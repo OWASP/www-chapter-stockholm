@@ -36,9 +36,7 @@ speakers or workshop meetings? Feel free to contact the chapter.
 Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
 
 ## March 2022 Weekly Chapter Meeting
-The next chapter meeting is on 8th March 2022. Anyone who is interested in working with the Stockholm Chapter is welcome to attend.
-
-Leaders Zoom Account Three is inviting you to a scheduled Zoom meeting.
+The next chapter meeting is on 8th March 2022 5:30pm for max 45 minutes. Anyone who is interested in working with the Stockholm Chapter is welcome to attend.
 
 Topic: OWASP Stockholm weekly group meeting
 Time: Mar 8, 2022 05:30 PM Stockholm
