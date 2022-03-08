@@ -43,7 +43,7 @@ Time: Mar 8, 2022 05:30 PM Stockholm
 
 
 Please download and import the following iCalendar (.ics) files to your calendar system.
-Weekly: [Zoom Meeting Calender Download Link] (https://us06web.zoom.us/meeting/tZYoc-GoqzIpGNUc8bLnKL8a1phkjCXAeY1v/ics?icsToken=98tyKuGqqz8iGtGcsxuGRpwQGY-gWfTwmFhejY1on0fnLy54Tlv3Z_JKObhcKPnV)
+Weekly: [Zoom Meeting Calender Download Link](https://us06web.zoom.us/meeting/tZYoc-GoqzIpGNUc8bLnKL8a1phkjCXAeY1v/ics?icsToken=98tyKuGqqz8iGtGcsxuGRpwQGY-gWfTwmFhejY1on0fnLy54Tlv3Z_JKObhcKPnV)
 
 
 Join Zoom Meeting
