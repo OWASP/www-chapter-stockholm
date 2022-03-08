@@ -54,15 +54,18 @@ Passcode: 952074
 One tap mobile
 +46850163827,,82548059321# Sweden
 +46850500828,,82548059321# Sweden
+<p>
 
-Dial by your location
-        +46 8 5016 3827 Sweden
-        +46 8 5050 0828 Sweden
-        +46 8 5050 0829 Sweden
-        +46 8 5052 0017 Sweden
-        +46 850 539 728 Sweden
-        +46 8 4468 2488 Sweden
-Meeting ID: 825 4805 9321
+**Dial by your location**
+<ul>
+        <li>+46 8 5016 3827 Sweden</li>
+        <li>+46 8 5050 0828 Sweden</li>
+        <li>+46 8 5050 0829 Sweden</li>
+        <li>+46 8 5052 0017 Sweden</li>
+        <li>+46 850 539 728 Sweden</li>
+        <li>+46 8 4468 2488 Sweden</li>
+        </ul>
+Meeting ID: 825 4805 9321<p>
 [Find your local number](https://us06web.zoom.us/u/kmiJLQeHf)
 
 
