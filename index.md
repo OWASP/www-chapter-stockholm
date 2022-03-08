@@ -35,7 +35,7 @@ speakers or workshop meetings? Feel free to contact the chapter.
 ## Upcoming Events
 Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
 
-March 2022 Weekly Chapter Meeting
+## March 2022 Weekly Chapter Meeting
 The next chapter meeting is on 8th March 2022. Anyone who is interested in working with the Stockholm Chapter is welcome to attend.
 
 Leaders Zoom Account Three is inviting you to a scheduled Zoom meeting.
