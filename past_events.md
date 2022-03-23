@@ -7,6 +7,21 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Mar``   ``22``
+ ``2022:``   ``OWASP``   ``Planning``**
+
+Weekly chapter meeting open to everyone.
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Mar``   ``15``
+ ``2022:``   ``OWASP``   ``Planning``**
+
+Weekly chapter meeting open to everyone.
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Mar``   ``8``
+ ``2022:``   ``OWASP``   ``Planning``**
+
+Weekly chapter meeting open to everyone.
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Feb``   ``17``
  ``2022:``   ``OWASP``   ``PIM``   ``Fraud`**
 

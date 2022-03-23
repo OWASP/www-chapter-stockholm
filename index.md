@@ -69,10 +69,10 @@ One tap mobile
 </ul>
 Meeting ID: 825 4805 9321<p>
 
+Find your local number
 [Find your local number](https://us06web.zoom.us/u/kmiJLQeHf)
 
 
-
-
 ## Past Events
+See past chapter events
 [See past chapter events](https://owasp.org/www-chapter-stockholm/past_events.html)
