@@ -54,11 +54,12 @@ Join Zoom Meeting
 Meeting ID: 825 4805 9321
 Passcode: 952074
 One tap mobile
-+46850163827,,82548059321# Sweden
-+46850500828,,82548059321# Sweden
-<p>
 
-**Dial by your location**
++46850163827,,82548059321# Sweden
+
++46850500828,,82548059321# Sweden
+
+Dial by your location
 <ul>
         <li>+46 8 5016 3827 Sweden</li>
         <li>+46 8 5050 0828 Sweden</li>
@@ -67,7 +68,7 @@ One tap mobile
         <li>+46 850 539 728 Sweden</li>
         <li>+46 8 4468 2488 Sweden</li>
 </ul>
-Meeting ID: 825 4805 9321<p>
+Meeting ID: 825 4805 9321
 
 Find your local number
 [Find your local number](https://us06web.zoom.us/u/kmiJLQeHf)
