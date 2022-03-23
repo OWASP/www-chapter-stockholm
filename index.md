@@ -66,8 +66,9 @@ One tap mobile
         <li>+46 8 5052 0017 Sweden</li>
         <li>+46 850 539 728 Sweden</li>
         <li>+46 8 4468 2488 Sweden</li>
-        </ul>
+</ul>
 Meeting ID: 825 4805 9321<p>
+
 [Find your local number](https://us06web.zoom.us/u/kmiJLQeHf)
 
 
