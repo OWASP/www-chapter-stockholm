@@ -7,6 +7,26 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Feb``   ``17``
+ ``2022:``   ``OWASP``   ``PIM``   ``Fraud`**
+
+ Welcome to our first digital event for 2022 where we will be hosting two talks!
+
+Talk 1:
+Priviledged Identity Management (PIM) – Closing the door after you are done with work
+
+Description: How do you make sure that while you are sleeping, no-one is using a priviledged account to access important resources within the organisation? In this session i share the approch i use to handle such scenarios and how to limit access to resources just-in-time as they are needed. Some of the technologies covered are Azure AD, Azure AD PIM.
+
+Presenter: Taavi Koosaar, VP Engineering at Chinsay AB
+MS MVP - Developer Technologies and passionate about development technologies, architecture, DevSecOps, processes and engineering practices in general to deliver software and value continuously in a cloud native world.
+
+Talk 2:
+Stop the looters: a method to detect and stop digital skimming attacks
+
+Description: In 2019 British Airways was fined a remarkable £183 million for a data breach that affected more than 380.000 of its customers. Magecart, the hacking group behind the attack, specializes in credit card theft using a technique called digital skimming and British Airways has not been their solo victim. How can we detect these attacks? Is there a method to detect and stop digital skimmers? In this talk we present a technique to do this.
+
+Presenter: Nikolaos (Nikos) Alexiou has worked with application security since 2017 in finance and healthcare. He has a software engineering background and he is currently a member of the leadership team for the Stockholm OWASP local chapter. Nikos holds an MSc in Information Systems from the Aristotle University of Thessaloniki, Greece.
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Oct``   ``21``
  ``2021:``   ``OWASP``   ``DevOps`**
 
