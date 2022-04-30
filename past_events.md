@@ -7,6 +7,35 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``13``
+ ``2022:``   ``OWASP``   ``Threat Modeling`**
+
+ Welcome to another OWASP Stockholm event!
+The topic for this evening will be threat modeling and we will hear Adam Shostack and Irene Michlin talk about the topic.
+
+This meeting will be both physical and virtual. Therefore it is important that you register on the correct event.
+
+Speaker Bio:
+
+Adam Shostack is a leading expert on threat modeling, and a consultant, expert witness, author and game designer. He has decades of experience delivering security. His experience ranges across the business world from founding startups to nearly a decade at Microsoft.
+
+His accomplishments include:
+
+Helped create the CVE. Now an Emeritus member of the Advisory Board.
+Fixing Autorun for hundreds of millions of systems
+Lead the design and delivery of the Microsoft SDL Threat Modeling Tool (v3)
+Created the Elevation of Privilege threat modeling game
+Wrote Threat Modeling: Designing for Security
+Co-authored The New School of Information Security
+While not consulting or training, Shostack serves as an advisor to a variety of companies and academic institutions.
+
+Irene Michlin is an application security specialist at Neo4j. Before going into application security, Irene worked as software engineer, architect, and technical lead at companies ranging from startups to corporate giants. Her professional interests include securing development life-cycles and architectures. Irene believes that innovative software and secure development practices are not a contradiction, and Lean and Agile practices are actually friends of security. After years of AppSec consultancy, she is now back to in-house role, where she can apply all that she's learned.
+
+Location: Zoom (link)
+Time: April 13, 17.00 – 20.00
+The talks will begin at 17.30.
+The meeting will also be made available online for those who cannot make it in person.
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Mar``   ``22``
  ``2022:``   ``OWASP``   ``Planning`**
 
