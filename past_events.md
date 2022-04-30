@@ -36,6 +36,8 @@ Time: April 13, 17.00 – 20.00
 The talks will begin at 17.30.
 The meeting will also be made available online for those who cannot make it in person.
 
+The recorded session is available on our [Youtube channel](https://www.youtube.com/channel/UC3pn_ccQdc22_L63d6MN1QA) 
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Mar``   ``22``
  ``2022:``   ``OWASP``   ``Planning`**
 
