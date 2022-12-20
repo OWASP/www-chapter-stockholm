@@ -9,6 +9,7 @@ tags: past_events
 ## Past Events
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Dec``   ``6``
  ``2022:``   ``OWASP``   ``DevSecOps with GitHub Advanced Security`**
+
 Developers are expected to build secure code, but traditional security tools have been difficult to integrate into the development process. Recent studies show that 85% of applications still contain known vulnerabilities. (https://codesentry.grammatech.com/wp-form-osterman-research)
 
 With GitHub Advanced Security we have the possibility to natively embed security directly into the development workflow. This allows for detection of vulnerabilities early in the development cycle.
