@@ -36,7 +36,7 @@ speakers or workshop meetings? Feel free to contact the chapter.
 Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
 
 ## Weekly Chapter Meetings
-Regular chapter meetings will continue in 2023 and announced here. 
+Regular chapter meetings will continue in 2023 and they will be announced here. 
 
 ## Past Events
 See past chapter events
