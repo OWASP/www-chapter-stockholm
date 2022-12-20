@@ -7,6 +7,22 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Dec``   ``6``
+ ``2022:``   ``OWASP``   ``DevSecOps with GitHub Advanced Security`**
+Developers are expected to build secure code, but traditional security tools have been difficult to integrate into the development process. Recent studies show that 85% of applications still contain known vulnerabilities. (https://codesentry.grammatech.com/wp-form-osterman-research)
+
+With GitHub Advanced Security we have the possibility to natively embed security directly into the development workflow. This allows for detection of vulnerabilities early in the development cycle.
+
+Join us on December 6th where we will go through the different GitHub Advanced Security features like Code scanning using CodeQL, Secret scanning and Dependecy scanning with Dependabot.
+
+About Presenter: Sanjin Medic, Principal Architect and Head of Development at Solidify
+
+We are hosted by Micrsosoft Reactor @ Regeringsgatan 59, Stockholm
+
+EDIT: By popular demand we are also going to stream this session on our YouTube Channel.
+[https://youtu.be/4tBLl-KAG0A](https://www.youtube.com/watch?v=9dOR1Y8g3h4)
+
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``May``   ``25``
  ``2022:``   ``OWASP``   ``DevSecOps with GitLab Security`**
 
