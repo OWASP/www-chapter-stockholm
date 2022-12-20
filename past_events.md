@@ -7,6 +7,40 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``May``   ``25``
+ ``2022:``   ``OWASP``   ``DevSecOps with GitLab Security`**
+
+Welcome to another live OWASP Stockholm event and get together sponsored by Sentor
+
+Cyber attacks have never been more in the news. From Twitter hacks to identity theft, vulnerabilities are exposing gaps in the application development process. Application security is difficult, especially when security is a separate process from your DevOps workflow. Security has traditionally been the final hurdle to conquer in the development lifecycle.
+
+Join this session to gain a better understanding of how to successfully shift security left to find and fix security flaws during development - and to do so more easily and with greater visibility and control than typical approaches can provide.
+
+Stefania will explore:
+
+* How to achieve comprehensive security scanning - without adding a bunch of new tools and processes
+* How to secure and protect your cloud native applications and IaC environments within existing DevOps workflows
+* How to use a single-source-of-truth to improve collaboration between dev and sec
+* How to manage all of your software vulnerabilities in one place
+* How to automate and monitor your security policies and simplify auditing
+* How to set up compliance pipelines to provide consistent guardrails for developers and ensure separation of duties
+
+This meeting will be both physical and virtual, therefore it is important that you register for the correct event. Choose the physical event if you will be attending in person to see Stefania's presentation or choose the virtual event if you will be watching the presentation online through a zoom meeting.
+
+* Virtual
+* Physical
+
+Speaker Bio:
+Stefania’s experience as a Solutions Architect within Cybersecurity, DevSecOps and OSS governance means she's helped countless organisations understand and implement security throughout their SDLC. As a python developer at heart, Stefania enjoys optimising and improving operational efficiency by scripting & automating processes and creating integrations. She is an active member of OWASP DevSlop, hosting their technical shows. When not at a computer, Stefania enjoys surfing, yoga and looking after all her tropical plants
+
+Location: Zoom (link)
+Time: May 25, 17.00 – 20.00
+Stefania's talk will begin at 17.30.
+
+Light refreshments, food and drinks will be provided by Sentor who are sponsoring the event.
+
+The meeting will also be made available online for those who cannot make it in person.
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``13``
  ``2022:``   ``OWASP``   ``Threat Modeling`**
 
