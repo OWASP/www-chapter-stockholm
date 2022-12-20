@@ -24,6 +24,30 @@ EDIT: By popular demand we are also going to stream this session on our YouTube 
 [https://youtu.be/4tBLl-KAG0A](https://www.youtube.com/watch?v=9dOR1Y8g3h4)
 
 
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Nov``   ``29``
+ ``2022:``   ``OWASP``   ``Planning`**
+
+Weekly chapter meeting open to everyone.
+
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Sep``   ``27``
+ ``2022:``   ``OWASP``   ``Planning`**
+
+Weekly chapter meeting open to everyone.
+
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Sep``   ``7``
+ ``2022:``   ``OWASP``   ``Planning`**
+
+Weekly chapter meeting open to everyone.
+
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Aug``   ``30``
+ ``2022:``   ``OWASP``   ``Planning`**
+
+Weekly chapter meeting open to everyone.
+
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``May``   ``25``
  ``2022:``   ``OWASP``   ``DevSecOps with GitLab Security`**
 
