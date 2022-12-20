@@ -35,44 +35,8 @@ speakers or workshop meetings? Feel free to contact the chapter.
 ## Upcoming Events
 Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
 
-## March 2022 Weekly Chapter Meeting
-Previous chapter meeting was on 8th March 2022 5:30pm for max 45 minutes.<p>
-        
-The next chapter meeting is on 15th March 2022 5:30pm for max 45 minutes. Anyone who is interested in working with the Stockholm Chapter is welcome to attend.
-
-Topic: OWASP Stockholm weekly group meeting
-Time: Mar 8, 2022 05:30 PM Stockholm
-
-
-Please download and import the following iCalendar (.ics) files to your calendar system.
-Weekly: [Zoom Meeting Calender Download Link](https://us06web.zoom.us/meeting/tZYoc-GoqzIpGNUc8bLnKL8a1phkjCXAeY1v/ics?icsToken=98tyKuGqqz8iGtGcsxuGRpwQGY-gWfTwmFhejY1on0fnLy54Tlv3Z_JKObhcKPnV)
-
-
-Join Zoom Meeting
-[Join Zoom Meeting Link](https://us06web.zoom.us/j/82548059321?pwd=Yk9oOFkwZE9FV2RvdFJhRE1WbmQzUT09)
-
-Meeting ID: 825 4805 9321
-Passcode: 952074
-One tap mobile
-
-+46850163827,,82548059321# Sweden
-
-+46850500828,,82548059321# Sweden
-
-Dial by your location
-<ul>
-        <li>+46 8 5016 3827 Sweden</li>
-        <li>+46 8 5050 0828 Sweden</li>
-        <li>+46 8 5050 0829 Sweden</li>
-        <li>+46 8 5052 0017 Sweden</li>
-        <li>+46 850 539 728 Sweden</li>
-        <li>+46 8 4468 2488 Sweden</li>
-</ul>
-Meeting ID: 825 4805 9321
-
-Find your local number
-[Find your local number](https://us06web.zoom.us/u/kmiJLQeHf)
-
+## Weekly Chapter Meetings
+Regular chapter meetings will continue in 2023 and announced here. 
 
 ## Past Events
 See past chapter events
