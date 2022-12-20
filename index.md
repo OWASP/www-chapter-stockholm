@@ -21,9 +21,7 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Guidebo
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
 ## Local News
-We are currently planning the agenda for Q1 and Q2. If you know any good speakers on topics of interest, please contact us thru any of our channels. 
-
-As the Corona restrictions will be lifted on Feb 9th we will start planning for IRL events. If you are willing to sponsor an event with location and/or food and drinks, please let us know.
+We are currently planning the agenda for Q1 and Q2. We are always looking for speakers of all experience levels who have interesting topics to present. Please contact us if you are interested to present or if you want to tip us on interesting topics and speakers. 
 
 Everyone is welcome to join us at our chapter meetings. If location limits the number of attendees a first come, first serve policy will be applied to meeting registrations.
 
