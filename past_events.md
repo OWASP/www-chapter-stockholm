@@ -7,6 +7,18 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Mar``   ``2``
+ ``2023:``   ``OWASP``   ``DDoS attacks against Sweden- what happened and what we can do about it`**
+ 
+During the month of February social media accounts have repeatedly threatened Sweden with cyberattacks. The threats realized in the form of Distributed Denial-of-service attacks, a type of attack aiming at disrupting normal operations and availability of online services and websites. As a result, several Swedish websites were affected, but thankfully not nation-critical services.
+
+DDoS attacks are on the rise on a global scale. They are used by organized crime to blackmail organizations, as well as nation state actors to attack infrastructure of other countries, often opportunistically under the cover of political events.
+
+For this event we get together to discuss what happened, but more importantly what we can do to protect the organizations we work for against DDoS attacks.
+
+The event will be held using huddle in Slack so make sure to join the channel “#chapter-stockholm”.
+ 
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Dec``   ``6``
  ``2022:``   ``OWASP``   ``DevSecOps with GitHub Advanced Security`**
 
