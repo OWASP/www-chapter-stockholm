@@ -8,4 +8,4 @@
 * [Meetup](https://www.meetup.com/owasp-stockholm/)
 * [Twitter](https://twitter.com/owaspstockholm)
 * [YouTube](https://www.youtube.com/c/OWASPStockholm)
-* [Slack](https://owasp.slack.com/)
+* [Slack](https://owasp.slack.com/) *#chapter-stockholm*

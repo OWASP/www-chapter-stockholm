@@ -31,6 +31,8 @@ Are you interested in helping out? Do you have ideas for great invited
 speakers or workshop meetings? Feel free to contact the chapter.
 
 ## Upcoming Events
+2023-09-28 - [Pub evening - OWASP meet up and after-work near Odenplan](https://www.meetup.com/owasp-stockholm/events/293021766/) 
+
 Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
 
 ## Weekly Chapter Meetings
