@@ -5,6 +5,7 @@ title: OWASP Stockholm
 tags: past_events
 level: 1
 meetup-group: owasp-stockholm
+country: Sweden
 region: Europe
 
 ---
@@ -14,7 +15,7 @@ This is the landing page for the Stockholm chapter
 Please join our [Meetup](https://www.meetup.com/owasp-stockholm/) group to receive invites to upcoming events.
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Guidebook](/www-policy/guidebook/chapter-leader). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
