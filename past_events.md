@@ -7,6 +7,38 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Feb``   ``13``
+ ``2024:``   ``OWASP``   ``Resilience, APIs and Web Security @ Akamai`**
+ 
+Welcome to an evening with focus on resilience, APIs, and web security!
+The meetup will start with a mingle (wraps/drinks) at 17:30, the main presentations begins at 18:00. The talks will also be streamed online from 18:00.
+
+**Architecting web applications to achieve DDoS resiliency - Johan Aldor**
+In this session, Johan Aldor, Senior Solutions Engineer from Akamai will cover how to architect web applications to achieve DDoS resiliency. DDoS attacks are getting more common and also bigger, if you don’t architecture your web application correctly, coping with attacks can be a hassle. Akamai has over 25 years of experience in running distributed systems and overlay networks. Join us in this session where we share the benefits of using a distributed architecture for DNS, Web Application Firewalls and datacenter protection that will make you ready for any attack.
+
+**API Security is NOT Appsec - Alexander Cedergren**
+API Security has become a hot topic and this is what you need to know about it. OWASP recently released the updated OWASP Top 10 API Security Risks, and to be secure you need to rethink your normal security strategy. Join Alexander Cedergren, Senior Solutions Engineer at Akamai to learn more about why API Security is NOT AppSec, and what needs to be done different now when APIs is dominating the modern world.
+
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Jan``   ``17``
+ ``2024:``   ``OWASP``   ``OWASP Top 10 for LLM:s`**
+ 
+Artificial Intelligence is reshaping nearly every sector and will influence our society in ways that we are only now starting to comprehend. Rapid evolvement of tools, methods, and novel approaches is prompting businesses to swiftly adopt fresh solutions to harness the potential of this emerging paradigm. However, as new technologies, methodologies, and work practices are introduced, hackers also adapt and innovate, always staying one step ahead.
+This session led by cybersecurity specialist Krister Hedfors will explore the techniques that hackers use to leverage, manipulate, and exploit GenAI systems, such as ChatGPT and Code Llama. He will also give an introduction to OWASP top 10 list for Large Language Models (LLM).
+
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Dec``   ``13``
+ ``2023:``   ``OWASP``   ``Pub evening - Lucia OWASP meet up and after-work near Odenplan`**
+ 
+Time for a Lucia/near xmas get together. This is the perfect opportunity for all of us app-sec interested folks to get together and meet up in real life for a relaxed chat and maybe a beer or some other refreshments.
+
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Sep``   ``28``
+ ``2023:``   ``OWASP``   ``Pub evening - OWASP meet up and after-work near Odenplan`**
+ 
+While the summer holidays may be behind us, there's no reason to stop the fun. This is the perfect opportunity for all of us app-sec interested folks to get together and meet up in real life for a relaxed chat and maybe a beer or some other refreshments.
+
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Mar``   ``2``
  ``2023:``   ``OWASP``   ``DDoS attacks against Sweden- what happened and what we can do about it`**
  
