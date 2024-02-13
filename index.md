@@ -32,12 +32,11 @@ Are you interested in helping out? Do you have ideas for great invited
 speakers or workshop meetings? Feel free to contact the chapter.
 
 ## Upcoming Events
-2023-09-28 - [Pub evening - OWASP meet up and after-work near Odenplan](https://www.meetup.com/owasp-stockholm/events/293021766/) 
+2024-02-13 - [OWASP Stockholm - Resilience, APIs and Web Security @ Akamai](https://www.meetup.com/owasp-stockholm/events/298857354/)
+
+2024-03-20 - TBA
 
 Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
-
-## Weekly Chapter Meetings
-Regular chapter meetings will continue in 2023 and they will be announced here. 
 
 ## Past Events
 See past chapter events
