@@ -32,9 +32,11 @@ Are you interested in helping out? Do you have ideas for great invited
 speakers or workshop meetings? Feel free to contact the chapter.
 
 ## Upcoming Events
-2024-02-13 - [OWASP Stockholm - Resilience, APIs and Web Security @ Akamai](https://www.meetup.com/owasp-stockholm/events/298857354/)
+2024-03-20 - [OWASP Stockholm - March Event @ Kivra](https://www.meetup.com/owasp-stockholm/events/299483018/)
 
-2024-03-20 - TBA
+2024-04-24 - TBA
+
+2024-05-21 - TBA
 
 Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
 
