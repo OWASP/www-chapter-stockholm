@@ -7,6 +7,17 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Mar``   ``20``
+ ``2024:``   ``OWASP``   ``OWASP Stockholm - March Event @ Kivra`**
+ 
+Spring is quickly aproaching and OWASP Stockholm is hosting a meetup at Kivra featuring Mathias Karlsson, who will delve into the intriguing world of subdomain takeover within the Google Cloud Platform.
+
+The meetup will start with a mingle with food and drinks at 17:30 and the main presentation will begin at 18:00.
+
+**Mathias "avlidienbrunn" Karlsson**
+Your subdomain is on my bucket list
+Some say subdomain takeover doesn't exist in GCP. To no one's surprise, the real answer is "it depends™".
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Feb``   ``13``
  ``2024:``   ``OWASP``   ``Resilience, APIs and Web Security @ Akamai`**
  
