@@ -38,6 +38,8 @@ speakers or workshop meetings? Feel free to contact the chapter.
 
 2024-05-21 - TBA
 
+2024-06-05 - [Pub evening - Summer OWASP meet up and after-work near Odenplan](https://www.meetup.com/owasp-stockholm/events/299591604/)
+
 Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
 
 ## Past Events
