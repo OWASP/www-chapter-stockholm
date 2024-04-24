@@ -7,6 +7,15 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``24``
+ ``2024:``   ``OWASP``   ``OWASP Stockholm - TruffleHog Disclosure @ Omegapoint`**
+ 
+TruffleHog Security Issue Disclosure - Helena Rosenzweig
+This presentation covers a set of security issues in TruffleHog, an open source, automated security tool that scans code repositories and configuration files for active secrets. The session provides a detailed walkthrough with several live demos, showing how the tool can be exploited to remotely harvest credentials from anyone running a default installation of TruffleHog v3. This presentation is part of a coordinated disclosure together with Truffle Security, the team behind TruffleHog.
+
+**Helena Rosenzweig**
+Helena Rosenzweig is a security researcher and software engineer at Omegapoint, focusing on application security for client projects. She has a keen interest in building secure and scalable software but is equally intrigued by all the things that can go wrong.
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Mar``   ``20``
  ``2024:``   ``OWASP``   ``OWASP Stockholm - March Event @ Kivra`**
  
