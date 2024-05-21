@@ -7,6 +7,22 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``May``   ``21``
+ ``2024:``   ``OWASP``   ``OWASP Stockholm - The EU Cyber Resilience Act and why the SBOM is so important`**
+ 
+EU is about to become a market leader in software cybersecurity regulation. With a large set of proposed and active laws, software development will be regulated like never before.
+
+With the coming EU Cyber Resilience Act (CRA) all software and embedded systems will have to get a CE mark, which is now expanded to include cybersecurity aspects. It’s going to be a huge change and will mean that the manufacturers (and in some cases importers) will get responsibility for the user’s security and will have to provide free security patches for the lifetime of the product. Software developers will have to learn secure coding and the need for cyber security professionals will be very high.
+
+One of the focus areas is vulnerability management. To keep a product secure during its lifetime, all 3rd party components will have to be monitored and up to date. At the heart of this process is the Software Bill of Materials, SBOM, which is used to monitor for known vulnerabilities in both Open Source and commercial components. The OWASP CycloneDX project fits right in and have been working with various kinds of bill-of-materials for a long time. CycloneDX is in the process of becoming an ECMA standard and thus fits better in to the EU regulation.
+
+In this talk Olle E. Johansson will introduce the proposed EU CRA legislation and talk about the SBOM with a focus on the toolchain needed to manage vulnerabilities.
+
+We will start the evening with a mingle at 17:30 followed by a presentation that will start at 18:00. The talk will be around 1 hour long followed by a further mingle/time for questions and answers.
+
+**Olle E. Johansson**
+Olle E. Johansson is a consultant in the area of realtime communication and in embedded system security. He has been active in Open Source for many years as a developer, evangelist, trainer and speaker in many conferences worldwide. Olle is a member of the OWASP SBOM Forum and the OWASP CycloneDX industry working group. He is currently working on the CycloneDX Transparency Exchange API standard. Olle is currently a project leader for the Swedish DNS TAPIR project that is building Open Source software for analysing DNS resolver logs and finding bad actors.
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``Apr``   ``24``
  ``2024:``   ``OWASP``   ``OWASP Stockholm - TruffleHog Disclosure @ Omegapoint`**
  
