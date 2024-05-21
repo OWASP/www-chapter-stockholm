@@ -32,11 +32,6 @@ Are you interested in helping out? Do you have ideas for great invited
 speakers or workshop meetings? Feel free to contact the chapter.
 
 ## Upcoming Events
-2024-05-02 - [OWASP Stockholm - Security Game Night @ Detectify](https://www.meetup.com/owasp-stockholm/events/300467215/)
-
-2024-05-04 - [0x2 Hack The Box Meetup: Stockholm](https://www.meetup.com/hack-the-box-meetup-sweden/events/300489825/)
-
-2024-05-21 - [OWASP Stockholm - The EU Cyber Resilience Act and why the SBOM is so important](https://www.meetup.com/owasp-stockholm/events/300469641/)
 
 2024-06-05 - [Pub evening - Summer OWASP meet up and after-work near Odenplan](https://www.meetup.com/owasp-stockholm/events/299591604/)
 
