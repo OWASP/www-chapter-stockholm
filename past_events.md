@@ -7,6 +7,22 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``October``   ``29``
+ ``2024:``   ``OWASP``   ``OWASP Stockholm - Secure Software Development Evening`**
+ 
+Principles for Secure Development
+In this session Johan will provide a 45min overview of how a development team should think and work around security throughout the entire life cycle of system development. The presentation will go through things like security connected to development environments, code repos, pipelines, etc.
+
+Johan will be followed by Fredrik Klasén from Snyk discussing:
+
+Commonly Observed AI Security Issues While Using GenAI Tools in Software Development
+Fredrik will spend around 30 minutes discussing how AI-assisted coding increases your delivery speed and efficiency, but also bring risks. Fredrik will present an overview of AI in software development and commonly observed AI security issues while using GenAI tools to produce code and then exploit it. You’ll also get an insight into strategies for mitigation of AI introduced threats.
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``September``   ``24``
+ ``2024:``   ``OWASP``   ``Autumn OWASP meet up and after-work near Odenplan`**
+ 
+Now that summer is over and autumn has come it's time for us to hang out and have a beer. This is the perfect opportunity for all of us app-sec interested folks to get together and meet up in real life for a relaxed chat and maybe a beer or some other refreshments.
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``May``   ``21``
  ``2024:``   ``OWASP``   ``OWASP Stockholm - The EU Cyber Resilience Act and why the SBOM is so important`**
  
