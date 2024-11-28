@@ -5,3 +5,12 @@
 * [Henrik Åslund](mailto:henrik.aslund@owasp.org)
 * [Akzharkyn Duisembiyeva](mailto:akzharkyn.duisembiyeva@owasp.org)
 * [Naime Surenkok](naime.surenkok@owasp.org)
+
+### Previous Leaders
+* [Sanjin Medic](https://www.linkedin.com/in/sanjin-medic/)
+* [Nikolaos Alexiou](https://www.linkedin.com/in/nkalexiou/)
+* [Sebastian Åkerman](https://www.linkedin.com/in/sebastian-%C3%A5kerman-0714b0/)
+
+### Active OWASPm Stockholm Volunteers
+
+
