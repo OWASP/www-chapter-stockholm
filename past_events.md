@@ -7,6 +7,16 @@ tags: past_events
 ---
 
 ## Past Events
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``November``   ``27``
+ ``2024:``   ``OWASP``   ``OWASP Stockholm - Security Game Night`**
+ 
+It's time for our next OWASP monthly event and on this occasion, we will be having a CTF- style security game night in Detectify Stockholm office.
+
+We will start the evening with a mingle at 17:30 followed by the welcome talk that will start at 18:00. After the welcome talks, we will start playing the challenges. Light refreshments and pizzas will be provided.
+
+And do not forget to bring your laptops with you!
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``October``   ``29``
  ``2024:``   ``OWASP``   ``OWASP Stockholm - Secure Software Development Evening`**
  
