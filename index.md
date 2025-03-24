@@ -33,7 +33,7 @@ speakers or workshop meetings? Feel free to contact the chapter.
 
 ## Upcoming Events
 
-2024-06-05 - [Pub evening - Summer OWASP meet up and after-work near Odenplan](https://www.meetup.com/owasp-stockholm/events/299591604/)
+2025-04-08 - [OWASP Stockholm - GitHub Runners Takeover @ Kivra](https://www.meetup.com/owasp-stockholm/events/306683614/)
 
 Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
 
