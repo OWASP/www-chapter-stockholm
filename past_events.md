@@ -7,6 +7,22 @@ tags: past_events
 ---
 
 ## Past Events
+**`OWASP``   ``Stockholm``   ``meeting,``   ``March``   ``20``
+ ``2025:``   ``OWASP``   ``OWASP Stockholm - Tools and Research`**
+ 
+Join us for the first OWASP event of 2025, where we'll explore the incredible potential of open source tools in security! This time we will have 2 speakers, and the possibility to join either in person or remote. 
+
+Scapy in 0x30 Minutes by Guillaume Valadon
+
+Joining us remotely, Guillaume is a Cybersecurity Researcher at GitGuardian. He likes looking at data and crafting packets. In his spare time, he co-maintains Scapy and learns reversing embedded devices. Also, he still remembers what AT+MS=V34 means! Guillaume regularly gives technical presentations, classes and live demonstrations, and write research papers for conferences and magazines.
+
+Scapy (https://www.scapy.net & https://github.com/secdev/scapy) is a powerful Python-based interactive packet manipulation program and library. It can be used to forge or decode packets for a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. This presentation will describe its main features step by step, and will give you hints to experiment by yourself.
+
+Offensive security in the AI revolution by Dr. Emre Süren
+
+Dr. Emre Süren is a researcher at Cybercampus Sweden, the National Cybersecurity Research Center. As the manager of the Royal Hacking Lab, he leads research teams focused on LLM security, IoT hacking, threat intelligence, and memory forensics. In addition to his research, he teaches digital forensics at KTH Royal Institute of Technology.
+
+Vulnerability research on the AI attack surface is not just important—it is the thin line between innovation and catastrophe. The AI revolution has granted everyone unprecedented power, so the arm race is on between whitehat and blackhat actors. By embedding AI into the core of vulnerability research, we don’t just strengthen digital defenses—we redefine resilience. This presentation will explore real-world examples of how mainstream LLMs can be poisoned and will introduce the research currently being conducted in our lab to uncover weaknesses before malicious actors can exploit them.
 
 **`OWASP``   ``Stockholm``   ``meeting,``   ``November``   ``27``
  ``2024:``   ``OWASP``   ``OWASP Stockholm - Security Game Night`**
