@@ -24,7 +24,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Local News
 We are always looking for speakers of all experience levels who have interesting topics to present. Please submit your interest in this [form](https://docs.google.com/forms/d/e/1FAIpQLSeE6HUlCrYAkotJoi4jkZSaEuHndSMhlLx83zRmeZL_pf4vXQ/viewform) or contact us if you are interested to present or if you want to tip us on interesting topics and speakers. 
 
-Everyone is welcome to join us at our chapter meetings. If location limits the number of attendees a first come, first serve policy will be applied to meeting registrations. 
+Everyone is welcome to join us at our chapter meetings. If location limits the number of attendees, the event will be promoted first to members in Slack channel and (mailing list)[https://groups.google.com/a/owasp.org/g/stockholm-chapter]. After that, a first come, first serve policy will be applied to event registrations for everyone else in Meetup page. 
 
 Follow chapter news on [LinkedIn](https://www.linkedin.com/company/owasp-stockholm/), [Twitter](https://twitter.com/owaspstockholm) or [Meetup.com](https://www.meetup.com/OWASP-Stockholm)
 
