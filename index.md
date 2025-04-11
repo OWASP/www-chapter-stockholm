@@ -32,7 +32,7 @@ Are you interested in helping out? Do you have ideas for great invited speakers 
 
 ## Upcoming Events
 
-2025-04-08 - [OWASP Stockholm - GitHub Runners Takeover @ Kivra](https://www.meetup.com/owasp-stockholm/events/306683614/)
+
 
 Please review our schedule at [Meetup](https://www.meetup.com/owasp-stockholm/) for upcoming talks.
 
