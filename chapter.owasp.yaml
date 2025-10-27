@@ -1,0 +1,37 @@
+community:
+  - name: chapter-stockholm
+    platform: slack
+    url: https://owasp.slack.com/archives/C96APFGLD
+leaders:
+  - name: Shane Murnion
+    email: shane.murnion@owasp.org
+    github: shaneinsweden
+  - name: Davis Freimanis
+    email: davis.freimanis@owasp.org
+    github: davisfreimanis
+  - name: Henrik Åslund
+    email: henrik.aslund@owasp.org
+    github: henrikaslund
+  - name: Akzharkyn Duisembiyeva
+    email: akzharkyn.duisembiyeva@owasp.org
+    github: AkzharkynDM
+  - name: Naime Surenkok
+    email: naime.surenkok@owasp.org
+location:
+  country: Sweden
+  country_code: SE
+  region: Stockholm County
+  city: Stockholm
+  latitude: 59.3251172
+  longitude: 18.0710935
+meetup_group: owasp-stockholm
+name: OWASP Stockholm
+repositories:
+  - name: www-chapter-stockholm
+    url: https://github.com/OWASP/www-chapter-stockholm
+    description: OWASP Foundation Web Repository
+tags:
+  - past_events
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-stockholm
