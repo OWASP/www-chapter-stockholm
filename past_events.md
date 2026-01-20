@@ -7,6 +7,48 @@ tags: past_events
 ---
 
 ## Past Events
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``December``   ``17``
+ ``2025:``   ``OWASP``   ``Pub evening - Winter OWASP meet up and after-work near Odenplan`**
+ 
+Our last chance to hang out together and have a beer before the holiday season. This is the perfect opportunity for all of us app-sec interested folks to get together and meet up in real life for a relaxed chat and maybe a beer or some other refreshments.
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``September``   ``3``
+ ``2025:``   ``OWASP``   ``OWASP Stockholm @ Omegapoint`**
+ 
+Let's kick off the season with the first OWASP event after the summer, proudly hosted by Omegapoint! There will be some light food and drinks.
+
+Don't worry, I'm anonymous... right? - Mårten Grönlund
+Everything you do online leaves a footprint of who you are. Do you know how much information you give away, even when you think you’re anonymous? Join me as I show how seemingly completely innocent and irrelevant information, that you or your browser reveal, can be used to identify and track you on the internet, and how I used this to doxx a user on the anonymous forum Jodel.
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``June``   ``11``
+ ``2025:``   ``OWASP``   ``Pub evening - Summer OWASP meet up and after-work near Odenplan`**
+ 
+Our last chance to hang out together and have a beer before the summer. This is the perfect opportunity for all of us app-sec interested folks to get together and meet up in real life for a relaxed chat and maybe a beer or some other refreshments.
+
+**`OWASP``   ``Stockholm``   ``meeting,``   ``April``   ``25``
+ ``2025:``   ``OWASP``   ``OWASP Stockholm - CI/CD Security and Securing AI models`**
+ 
+Securing the CI in CI/CD: From Developer's Machine to Artifact Promotion
+In this presentation, we will explore the security aspects of Continuous Integration (CI) within the CI/CD pipeline, focusing on protecting the entire process from the developer's machine to artifact promotion and repository. We will go through the various stages of CI, identify potential security threats, and discuss effective mitigations to ensure a secure and robust CI environment.
+
+Guarding the Prompt: Building a Firewall for LLMs Aligned with the OWASP Top 10
+This session explores how AI firewalls can effectively mitigate the OWASP Top 10 threats for large language models (LLMs). We'll break down each risk, showcase practical defense strategies, and present a live demo of an AI firewall in action. Attendees will gain insights into securing LLM applications, understanding real-world attack scenarios, and adopting proactive measures to future-proof AI systems. Whether you're building with or securing AI, this talk offers valuable takeaways to strengthen your generative AI security posture.
+
+About the speakers
+Nicklas Sigurdh is an IT-security specialist with a focus on DevOps and close to 30 years development experience.
+https://www.linkedin.com/in/nicklas-sigurdh-9b65313/
+
+Daniella Eklund is an IT-security specialist with a background as a former teacher. She’s working with DevOps related issues at Handelsbanken and has a passion spreading IT-Security knowledge enabling coworkers to grow within the area.
+https://www.linkedin.com/in/daniella-eklund-501737112/
+
+Trolle Geuna is an IT-security specialist with a focus on DevOps, working at Handelsbanken.
+https://www.linkedin.com/in/trolle-geuna-5148aa1a2/
+
+Anders Näsman is a Principal Solutions Engineer at Akamai, and a seasoned technology expert with over 25 years of experience across media, cloud, and cybersecurity. He has worked with leading Nordic media brands, driving innovation in OTT, anti-piracy, cloud development, and AI/LLM security. His background spans R&D, product management, and engineering. Anders is an active contributor to industry standards and a frequent speaker at events like Demuxed, Streaming Tech Sweden, and Akamai Techdays, sharing insights on cutting-edge tech solutions. https://www.linkedin.com/in/andersn1/
+
+Jens Holmberg is a Solution Engineer at Akamai Technologies, where he works with customers to design and implement solutions around delivery, security, and compute. His role blends technical consulting with hands-on problem solving. In his spare time, Jens builds AI agents that occasionally do what they’re told, writes tools no one asked for, and has an impressive track record of breaking things in the name of “learning”. https://www.linkedin.com/in/jens-holmberg-40882833/
+
 **`OWASP``   ``Stockholm``   ``meeting,``   ``March``   ``20``
  ``2025:``   ``OWASP``   ``OWASP Stockholm - Tools and Research`**
  
