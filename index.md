@@ -9,6 +9,9 @@ country: Sweden
 region: Europe
 
 ---
+
+![OWASP Stockholm Logo](assets/images/owasp_stockholmV9transBlack.png)
+
 ## Welcome to the OWASP Stockholm chapter
 This is the landing page for the Stockholm chapter
 
